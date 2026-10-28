@@ -12,7 +12,7 @@
 ![Status](https://img.shields.io/badge/Open%20to%20Work-Junior%20.NET%20Developer-2ea44f?style=for-the-badge&logo=target&logoColor=white)
 ![Location](https://img.shields.io/badge/Cairo-Egypt-512BD4?style=for-the-badge&logo=googlemaps&logoColor=white)
 
-<a href="https://www.linkedin.com/in/zienab-amr/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/zeinabamr/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 <a href="mailto:zienabamr2372005@gmail.com"><img src="https://img.shields.io/badge/Email-Contact%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 <a href="https://github.com/zienab-amr"><img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
 
