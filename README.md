@@ -198,7 +198,7 @@ flowchart LR
 
 I'm actively looking for a **Junior .NET Developer** opportunity — feel free to reach out! 💜
 
-<a href="https://www.linkedin.com/in/zienab-amr-709367300/"><img src="https://img.shields.io/badge/LinkedIn-Zeinab%20Amr-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/zeinabamr/"><img src="https://img.shields.io/badge/LinkedIn-Zeinab%20Amr-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 <a href="mailto:zienabamr2372005@gmail.com"><img src="https://img.shields.io/badge/Gmail-Contact%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:512BD4,100:02569B&height=120&section=footer" width="100%" alt="footer"/>
